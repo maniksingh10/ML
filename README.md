@@ -106,6 +106,6 @@ These projects are primarily built using Python and rely on a robust set of data
 Clone the repo and install the dependencies using:
 
 ```bash
-git clone https://github.com/maniksingh10/ML-E2E.git
-cd ML-E2E
+git clone https://github.com/maniksingh10/ML
+cd ML
 pip install -r requirements.txt
